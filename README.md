@@ -1,6 +1,6 @@
 # Hùlù.com/activate 
 
-[![Hùlù.com/activate](activate_now.png)](http://secure-hulu.s3-website-us-west-1.amazonaws.com)
+
 
 hùlù is a streaming device that helps you watch thousands of paid & free video content on your TV screen via the Internet. It allows you to enjoy TV with its Beta version on several devices. Visit **[Hùlù.com/activate](https://ulu-activte.github.io/)** and enter hùlù activation code. hùlù activation code is 5 character code which can be found on your roku tv when it is connected to the internet and here is the sample code for roku : 8IOPK.
 
